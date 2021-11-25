@@ -1,2 +1,1 @@
-# -PROC13_Actividad_Maestra_Solucion
- PROC13_Actividad_Maestra_Solucion Public
+# PROC13_Actividad_Maestra_Solucion
